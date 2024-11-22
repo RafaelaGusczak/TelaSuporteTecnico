@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost:3306"; // Ou o endereço do servidor de banco de dados
 $username = "root"; // Seu usuário do MySQL
-$password = "root"; // Sua senha do MySQL
+$password = ""; // Sua senha do MySQL
 $dbname = "Suporte"; // Nome do banco de dados
 
 // Criação da conexão
